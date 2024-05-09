@@ -4,12 +4,12 @@ const Main = () => {
   return (
     <div className='main_section w-full h-auto flex justify-center items-center'>
       <div className="container w-[90%] h-auto flex flex-col justify-center items-center">
-        <div className="section_box w-[546px] h-[29px] flex justify-center items-center list-none gap-[40px] my-4 ">
-            <li className='text-[#06286E] font-[700] font-[Inter] px-[12px] py-0 border-b-2 border-[#06286E] '>Study</li>
-            <li className='px-[12px] py-0'>Quiz</li>
-            <li className='px-[12px] py-0'>Test</li>
-            <li className='px-[12px] py-0'>Game</li>
-            <li className='px-[12px] py-0'>Others</li>
+        <div className="section_box w-[546px] h-[29px] flex justify-center items-center list-none gap-[40px] my-4 text-[20px]">
+            <li className='text-[#06286E] font-[700] font-[Inter] px-[12px] py-0 border-b-2 border-[#06286E] text-[20px]'>Study</li>
+            <li className='px-[12px] py-0 font-[500] text-[#696671]'>Quiz</li>
+            <li className='px-[12px] py-0 font-[500] text-[#696671]'>Test</li>
+            <li className='px-[12px] py-0 font-[500] text-[#696671]'>Game</li>
+            <li className='px-[12px] py-0 font-[500] text-[#696671]'>Others</li>
         </div>
 
         <div className='display_box w-[712px] h-[485.19px] flex flex-col justify-start items-center gap-[32px]'>

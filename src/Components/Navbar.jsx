@@ -14,7 +14,7 @@ const Navbar = () => {
               <li>Contact</li>
             </div>
             <li className='w-[35px] h-[22px]'>FAQ</li>
-            <button className='w-[128px] h-[48px] rounded-[32px] bg-gradient-to-b from-[#06286E] to-[#164EC0] text-white'>Login</button>
+            <button className='w-[128px] h-[48px] rounded-[32px] bg-gradient-to-b from-[#06286E] to-[#164EC0] text-white py-[13px] px-[40px]'>Login</button>
           </div>
 
       </div>

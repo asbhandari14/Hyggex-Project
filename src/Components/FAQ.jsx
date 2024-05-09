@@ -8,7 +8,7 @@ const FAQ = () => {
 
         <div className="accordion_box w-[848px] h-[238px] flex flex-col gap-[32px] my-12">
           <div className='w-full h-[58px] rounded-[12px] border-[1px] border-[#164EC0] flex justify-start items-center px-[24px] text-black'>Can education flashcards be used for all age groups?</div>
-          <div className='w-full h-[58px] rounded-[12px] border-[1px] text-transparent border-[#164EC0] bg-clip-text bg-gradient-to-b from-[#06286E] to-[#164EC0] flex justify-start items-center px-[24px] text-black'>How do education flashcards work?</div>
+          <div className='w-full h-[58px] rounded-[12px] border-[1px] border-[#164EC0]  flex justify-start items-center px-[24px] text-black'>How do education flashcards work?</div>
           <div className='w-full h-[58px] rounded-[12px] border-[1px] border-[#164EC0] flex justify-start items-center px-[24px] text-black'>Can education flashcards be used for test preparation?</div>
         </div>
 

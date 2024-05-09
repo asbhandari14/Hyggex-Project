@@ -10,7 +10,7 @@ const PublishedBy = () => {
                 <img src="../Images/Logo.png" alt="" />
               </div>
               <div className="w-[115.14px] h-[60.17px] flex flex-col justify-start items-center">
-                <p>Published By</p>
+                <p className='w-full'>Published By</p>
                 <img src="../Images/HygexxLogo.png" alt="" />
               </div>
             </div>
